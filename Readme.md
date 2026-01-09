@@ -1,5 +1,5 @@
-<img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Xiaomao V2 - Chatbot Telegram & discord</h1>
+<img src="https://raw.githubusercontent.com/Ryuikyyz/Api-imgbb/refs/heads/main/umaS3/Tak%20berjudul65_20260110002358.png" alt="banner">
+<h1 align="center"><img src="https://raw.githubusercontent.com/Ryuikyyz/Api-imgbb/refs/heads/main/umaS3/Tak%20berjudul66_20260110002932.png" width="22px"> Xiaomao V2 - Chatbot Telegram & discord</h1>
 
 <p align="center">
 	<a href="https://nodejs.org/dist/v16.20.0">
@@ -55,13 +55,16 @@ Pastikan kamu sudah menyiapkan:
 4. **Admin ID**: Ambil ID akun kamu di Telegram dan Discord untuk akses Owner.
 
 ## 💭 **Support**
-Punya Keluhan, Gk ngerti awalan, ketemu bug?? Bisa Hubungi saya di bawah ini ya(⁠✯⁠ᴗ⁠✯⁠).
-- https://discord.gg/rngVV3WCp (recommended)
-- https://facebook.com/groups/350004878030834/
-- https://wa.me/6281318293478
-- ~~t.me/KyysStoreID~~ (no longer supported)
-- ***Saya Jarang chat saya di inbox, saya suka tidak merespon karna banyak sekali pesan yang masuk, hubungi saya lewat grup dan sejenisnya.***
 
+Punya Keluhan, Gk ngerti awalan, atau ketemu bug? Klik tombol di bawah ini:
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rngVV3WCp)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/groups/350004878030834/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281318293478)
+[![Telegram](https://img.shields.io/badge/Telegram-26A6E6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KyysStoreID)
+
+> [!CAUTION]
+> **PENTING**: Tolong jangan hubungi via inbox pribadi. Gunakan link grup di atas agar pesan Anda terbaca.
 
 ---
 
