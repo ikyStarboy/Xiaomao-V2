@@ -1,4 +1,32 @@
-# 🐱 Xiaomao-V2 (Hybrid Bot)
+<img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot - Bot Chat Messenger</h1>
+
+<p align="center">
+	<a href="https://nodejs.org/dist/v16.20.0">
+		<img src="https://img.shields.io/badge/Nodejs%20Support-16.x-brightgreen.svg?style=flat-square" alt="Nodejs Support v16.x">
+	</a>
+  <img alt="size" src="https://img.shields.io/github/repo-size/ntkhang03/Goat-Bot-V2.svg?style=flat-square&label=size">
+  <img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=code%20version&prefix=v&query=%24.version&url=https://github.com/ntkhang03/Goat-Bot-V2/raw/main/package.json&style=flat-square">
+  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=ntkhang3.Goat-Bot-V2">
+  <img alt="size" src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=brightgreen">
+</p>
+
+- [📝 **Note**](#-note)
+- [🚧 **Requirement**](#-requirement)
+- [📝 **Tutorial**](#-tutorial)
+- [💡 **How it works?**](#-how-it-works)
+- [🔔 **How to get notification when have new update?**](#-how-to-get-notification-when-have-new-update)
+- [🆙 **How to Update**](#-how-to-update)
+- [🛠️ **How to create new commands**](#️-how-to-create-new-commands)
+- [💭 **Support**](#-support)
+- [📚 **Support Languages in source code**](#-support-languages-in-source-code)
+- [📌 **Common Problems**](#-common-problems)
+- [❌ **DO NOT USE THE ORIGINAL UNDERGRADUATE VERSION**](#-do-not-use-the-original-undergraduate-version)
+- [📸 **Screenshots**](#-screenshots)
+- [✨ **Copyright (C)**](#-copyright-c)
+- [📜 **License**](#-license)
+
+<hr>
 
 Xiaomao-V2 adalah bot hybrid modern yang berjalan di dua platform sekaligus: **Telegram** dan **Discord**. Dibangun dengan Node.js untuk memberikan pengalaman manajemen bot yang ringan, cepat, dan stabil.
 
