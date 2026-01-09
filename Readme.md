@@ -24,7 +24,7 @@
 - [❌ **DO NOT USE THE ORIGINAL UNDERGRADUATE VERSION**](#-do-not-use-the-original-undergraduate-version)
 - [📸 **Screenshots**](#-screenshots)
 - [✨ **Copyright (C)**](#-copyright-c)
-- [📜 **License**](#-license)
+- [📜 **Buka Lisensi**](#-lisensi--catatan)
 
 <hr>
 
@@ -118,7 +118,7 @@ Untuk menjaga bot tetap online 24/7, gunakan layanan berikut:
 
 ---
 
-#-license ⚠️ Lisensi & Catatan
+## ⚠️ Lisensi & Catatan
 
 * Projek ini bersifat Open Source.
 * Dilarang keras memperjualbelikan script ini tanpa izin.
